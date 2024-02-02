@@ -5,18 +5,18 @@ My name is Anthony, and I'm a passionate software developer. I love turning idea
 
 ## GitHub Stats
 ### Last Year (2023)
-![Total Stars](https://img.shields.io/github/stars/your-username?style=flat-square)
-![Total Forks](https://img.shields.io/github/forks/your-username?style=flat-square)
-![Total Contributions](https://img.shields.io/github/last-year/your-username?style=flat-square)
+![Total Stars](https://img.shields.io/github/stars/thony32?style=flat-square)
+![Total Forks](https://img.shields.io/github/forks/thony32?style=flat-square)
+![Total Contributions](https://img.shields.io/github/last-year/thony32?style=flat-square)
 
 ### Current Year (2024)
-![Total Contributions](https://img.shields.io/github/contributions/your-username?style=flat-square)
+![Total Contributions](https://img.shields.io/github/contributions/thony32?style=flat-square)
 
 ## Most Used Languages
-![Top Language 1](https://img.shields.io/github/languages/top/your-username?color=yellow&style=flat-square)
-![Top Language 2](https://img.shields.io/github/languages/top/your-username?color=blue&style=flat-square)
-![Top Language 3](https://img.shields.io/github/languages/top/your-username?color=green&style=flat-square)
-![Top Language 4](https://img.shields.io/github/languages/top/your-username?color=red&style=flat-square)
+![Top Language 1](https://img.shields.io/github/languages/top/thony32?color=yellow&style=flat-square)
+![Top Language 2](https://img.shields.io/github/languages/top/thony32?color=blue&style=flat-square)
+![Top Language 3](https://img.shields.io/github/languages/top/thony32?color=green&style=flat-square)
+![Top Language 4](https://img.shields.io/github/languages/top/thony32?color=red&style=flat-square)
 
 
 
