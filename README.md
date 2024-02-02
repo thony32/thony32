@@ -4,10 +4,10 @@
 My name is Anthony, and I'm a passionate software developer. I love turning ideas into code and building innovative solutions.
 
 ## GitHub Stats
-### Last Year (2023)
-![Total Stars](https://img.shields.io/github/stars/thony32?style=flat-square)
-![Total Forks](https://img.shields.io/github/forks/thony32?style=flat-square)
-![Total Contributions](https://img.shields.io/github/last-year/thony32?style=flat-square)
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajaomariajaona&count_private=true&theme=tokyonight&hide=issues&hide_rank=true" alt="Github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaomariajaona&count_private=true&theme=tokyonight&hide=css,dart,html,Tsql&layout=compact" alt="Github stats" /><br/><br/>
+
 
 ### Current Year (2024)
 ![Total Contributions](https://img.shields.io/github/contributions/thony32?style=flat-square)
