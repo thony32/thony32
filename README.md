@@ -5,8 +5,9 @@ My name is Anthony, and I'm a passionate software developer. I love turning idea
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajaomariajaona&count_private=true&theme=tokyonight&hide=issues&hide_rank=true" alt="Github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaomariajaona&count_private=true&theme=tokyonight&hide=css,dart,html,Tsql&layout=compact" alt="Github stats" /><br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=thony32&theme=solarized-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats" /> <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=thony32&count_private=true&theme=tokyonight&hide=issues&hide_rank=true" alt="Github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thony32&count_private=true&theme=tokyonight&hide=css,dart,html,Tsql&layout=compact" alt="Github stats" /><br/><br/>
 
 
 ### Current Year (2024)
