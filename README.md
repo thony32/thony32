@@ -7,7 +7,7 @@ My name is Anthony, and I'm a passionate software developer. I love turning idea
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=thony32&&count_private=true&theme=synthwave&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats" /> <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=thony32&count_private=true&theme=dracula&hide=issues&hide_rank=true" alt="Github stats" /><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thony32&count_private=true&theme=synthwave&hide=html,css&layout=compact" alt="Github stats" /><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thony32&count_private=true&theme=synthwave&hide=html,css,batchfile&layout=compact" alt="Github stats" /><br/><br/>
 
 # #believeinyourself
 
