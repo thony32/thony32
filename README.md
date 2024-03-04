@@ -1,5 +1,5 @@
 # Hello, I'm Anthony 👋😁
-I'm a passionate software developer. I love turning ideas into code.
+<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6d5yq5t467e2yw7eyarn42lq1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff006f)](https://github.com/kittinan/spotify-github-profile)</div>
 
 ## My Stats 🔥
 
