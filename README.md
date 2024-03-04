@@ -5,6 +5,6 @@
 
 &nbsp;<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6d5yq5t467e2yw7eyarn42lq1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff006f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</div><br/>
 
-&nbsp;<div align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6d5yq5t467e2yw7eyarn42lq1&count={count})</div><br/>
+&nbsp;<div align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6d5yq5t467e2yw7eyarn42lq1&count=3)</div><br/>
 
 
