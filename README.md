@@ -29,6 +29,4 @@ Software Engineer
 
 <div align="center"><a href="https://app.daily.dev/thony32"><img src="https://api.daily.dev/devcards/v2/4hT7K8x1VDoBVBb5GMkFz.png?r=bn4&type=wide" width="652" alt="Anthony's Dev Card"/></a></div><br/>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EpAph60QqWOrJ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br/>
-
 
