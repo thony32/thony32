@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Madagascar
-* 🖥️  See my portfolio at [thony32.me](http://thony32.me)
+* 🖥️  See my portfolio at [thony32](http://thony32.vercel.app)
 * ✉️  You can contact me at [mahefasoanyrianaanthony09@gmail.com](mailto:mahefasoanyrianaanthony09@gmail.com)
 * 🧠  I'm learning Mobile Development
 * 🤝  I'm open to collaborating on Interesting Projects
